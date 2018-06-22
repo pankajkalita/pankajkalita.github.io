@@ -1,0 +1,77 @@
+=  *Pankaj Kumar Kalita*
+
+~~~
+{}{img_left}{pankaj2.jpg}{Pankaj Kumar Kalita}{120px}{150px}
+*M.Tech in Computer Science and Engineering* \n
+[http://www.iitg.ernet.in/cse/ *Department of Computer Science & Engineering*] \n
+[http://www.iitg.ac.in/ *Indian Institute of Technology Guwahati*] \n 
+*Guwahati - 781039*\n
+*Assam, India*\n
+*Email:* pankajkalita@iitg.ac.in \n
+*Email:* pankajjnv595@gmail.com
+~~~
+
+== Research Interests
+- Formal Verification
+- Equivalence Checking
+
+== Publication
+- Kunal Banerjee, Ramanuj Chouksey, Chandan Karfa and Pankaj Kumar Kalita, “[https://dl.acm.org/citation.cfm?id=3195083 Automatic Detection of Inverse Operations while Avoiding Loop Unrolling],” in 40th International Conference on Software Engineering (ICSE 18), May 27 - 3 June 2018, pp. 175-176, Gothenburg, Sweden, 2018.
+
+== Education
+~~~
+{}{table}{degree}
+2016-2018  | M.Tech., Computer Science and Engineering, [http://www.iitg.ac.in/ Indian Institute of Technology, Guwahati.] ||
+Grade | 8.76\/10  ||
+Thesis | Inverse Operation Detection and Counter Example Generation during Path Based Equivalence Checking. ||
+Supervisor | [http://www.iitg.ac.in/ckarfa/ Dr. Chandan Karfa] ||
+ {{<br/>}} | {{<br/>}} ||
+2012-2016  | B.Tech., Computer Science and Engineering, North Eastern Regional Institute of Science and Technology (NERIST), Arunachal Pradesh.||
+Grade | 4.84\/5  ||
+{{<br/>}} | {{<br/>}} ||
+2012 | 12th, Jawahar Navodaya Vidyalaya, Morigaon. ||
+Grade | 89.4% ||
+ {{<br/>}} | {{<br/>}} ||
+2010 | 10th, Jawahar Navodaya Vidyalaya, Morigaon. ||
+Grade | 9.6\/10
+~~~
+
+== Experience 
+- Summer Intern, Indian Institute of Science and Tehnology, Bombay (June,15 - July,15)
+
+== Projects
+- *Automatic inverse operation detection.* ~(/Jan,2018 - May, 2018/)\n /Supervisor/: Dr. Chandan Karfa, Assistant Professor, Dept of CSE, IIT Guwahati.\n This work proposes a method to find inverse operations, i.e., operations which nullify each other. 
+(M.Tech Thesis Project)
+	-- Tools/Technology: C, Lex, Yacc
+- *A counter example generation procedure for path based equivalence checkers.* ~(/July'17 - Dec'17/)\n /Supervisor/: Dr. Chandan Karfa, Assistant Professor, Dept of CSE, IIT Guwahati. \n
+This works targets on to generate counter example for path based equivalence checkers when there is a mismatch during equivalence checking. \n (M.Tech Thesis Project)                                 
+	-- Tools/Technology: C, Lex, Yacc
+- *Speech Based IITG Campus Map*. ~(/Nov'16 - Dec'16/) \n /Supervisor/: Prof. Pradip K. Das, Professor, Dept of CSE, IIT Guwahati. \n Implementation of a Desktop Application that captures words spoken by humans with the help of a microphone and processes them by using Hidden Markov Model based on which it displays the path between two points in IITG campus for given inputs.                                                                         
+	-- Tools/Technology: Cool Edit, C++, Visual Basic
+- *Exploring decision tree learning.* ~(/Jan'16 - Apr'16/) \n /Supervisor/: Mr. Aswini Kumar Patra, Assistant Professor, Dept. of CSE, NERIST. \n Exploring different techniques to generate decision tree for classification problem.                                  
+            -- Tools/Technology: Python
+- *Curve Generation Using Java Applet.* ~(/Mar'14 - April'14/) \n /Supervisor/: Mr. Manjul Saikia, Assistant Professor, Dept. of CSE, NERIST. \n
+Implementation of JAVA Applet to create a website for generating some mathematical curve with user defined parameter values.                                                                                                                         
+             -- Tools/Technology: JAVA Applet
+
+== Technical skills
+- *Programming languages* : C, C++, Python\*
+- *Web technologies* : HTML, CSS, Javascript\*
+- *Database management* : mySQL
+- *Miscellaneous* : Z3\*, NuSMV\*, Latex
+- *Operating system* : Windows, Linux (Ubuntu)\n \n
+ \* Elementary proficiency
+
+
+== Key courses taken
+- VLSI Design, Verification and Testing
+- CAD for VLSI
+- Compiler Design
+- Speech Processing
+
+== Achievements
+- Awarded *Dewang Mehta Excellence Award* presented by NASSCOM for excellence in academics, 2016.
+
+== Extracurricular
+- Attended Arduino-Scilab workshop ,  a 2-days workshop on Arduino platform using Scilab as interface at IIT Bombay from 3 Jul to 4 Jul, 2015.
+- Attended Computer hardware and network management course at CTTC, Bhubaneswar from 1 June to 29 June, 2013
