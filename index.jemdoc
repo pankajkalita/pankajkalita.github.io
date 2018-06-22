@@ -1,4 +1,4 @@
-=  *Pankaj Kumar Kalita*
+=  Pankaj Kumar Kalita
 
 ~~~
 {}{img_left}{pankaj2.jpg}{Pankaj Kumar Kalita}{120px}{150px}
@@ -21,7 +21,7 @@
 == Education
 ~~~
 {}{table}{degree}
-2016-2018  | M.Tech., Computer Science and Engineering, [http://www.iitg.ac.in/ Indian Institute of Technology, Guwahati.] ||
+2016-2018  | M.Tech., Computer Science and Engineering, Indian Institute of Technology, Guwahati. ||
 Grade | 8.76\/10  ||
 Thesis | Inverse Operation Detection and Counter Example Generation during Path Based Equivalence Checking. ||
 Supervisor | [http://www.iitg.ac.in/ckarfa/ Dr. Chandan Karfa] ||
@@ -37,7 +37,8 @@ Grade | 9.6\/10
 ~~~
 
 == Experience 
-- Summer Intern, Indian Institute of Science and Tehnology, Bombay (June,15 - July,15)
+- *Summer Intern*, Indian Institute of Science and Tehnology, Bombay (/~June,15 - July,15/) \n
+Implementing functions in OpenCV in Scilab to enhance Scilab image processing toolkit.
 
 == Projects
 - *Automatic inverse operation detection.* ~(/Jan,2018 - May, 2018/)\n /Supervisor/: Dr. Chandan Karfa, Assistant Professor, Dept of CSE, IIT Guwahati.\n This work proposes a method to find inverse operations, i.e., operations which nullify each other. 
